@@ -32,4 +32,5 @@ IA
 
 
 Onde estão os codigos feitos nos cursos e jornadas que participei
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanderrbrito/codigos)
